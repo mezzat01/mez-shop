@@ -1,0 +1,1 @@
+//Conbining our redux reducers in this file "index.js"
